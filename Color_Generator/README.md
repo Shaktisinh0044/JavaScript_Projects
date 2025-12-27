@@ -1,4 +1,4 @@
-## 🎨 [Live Preview](https://shaktisinh0044.github.io/Color-Generator/)
+## 🎨 [Live Preview](https://shaktisinh0044.github.io/JavaScript_Projects/Color_Generator/)
 
 ### 🌈 Color Generator Web App Overview
 
