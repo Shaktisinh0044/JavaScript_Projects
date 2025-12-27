@@ -1,4 +1,4 @@
-## 🔐 [Live Preview](https://shaktisinh0044.github.io/KJavaScript_Projects/Password_Generator/)
+## 🔐 [Live Preview](https://shaktisinh0044.github.io/JavaScript_Projects/Password_Generator/)
 
 ### 🧪 Password Generator Project Overview
 
