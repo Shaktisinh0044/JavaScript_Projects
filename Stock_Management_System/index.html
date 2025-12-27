@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Stock Management System</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-LN+7fdVzj6u52u30Kp6M/trliBMCMKTyK833zpbD+pXdCLuTusPj697FH4R/5mcr" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.0/css/all.min.css"
+    integrity="sha512-DxV+EoADOkOygM4IR9yXP8Sb2qwgidEmeqAEmDKIOfPRQZOWbXCzLC6vjbZyy0vPisbH2SyW27+ddLVCN+OMzQ=="
+    crossorigin="anonymous" referrerpolicy="no-referrer" />
+  <style>
+    body {
+      background-color: black;
+      color: whitesmoke;
+    }
+
+    .github {
+      text-align: center;
+      font-size: 4rem;
+    }
+  </style>
+</head>
+
+<body>
+
+  <div class="container-fluid">
+    <div class="row m-5">
+      <div class="col-md-12 p-4 border border-2 border-secondary rounded-2">
+        <div class="h1">Product Listing</div>
+        <hr>
+
+        <div class="row g-2">
+          <div class="col-md">
+            <div class="form-floating">
+              <input type="text" class="form-control" id="itemName" placeholder="Item Name">
+              <label for="itemName">Item Name</label>
+            </div>
+          </div>
+
+          <div class="col-md">
+            <div class="form-floating">
+              <input type="number" class="form-control" id="totalQuantity" placeholder="total quantity">
+              <label for="totalQuantity">Total Quantity</label>
+            </div>
+          </div>
+
+          <div class="col-md">
+            <div class="form-floating">
+              <input type="number" class="form-control" id="itemPrice" placeholder="total quantity">
+              <label for="itemPrice">Price/Quantity</label>
+            </div>
+          </div>
+
+
+          <div class="col-md">
+            <div class="form-floating">
+              <select class="form-select" id="itemCategory">
+                <option selected disabled>--Select Any One--</option>
+                <option value="Dairy">Dairy</option>
+                <option value="Produces">Produces</option>
+                <option value="Bakery">Bakery</option>
+                <option value="Spices">Spices</option>
+                <option value="Beverages">Beverages</option>
+                <option value="Household">Household</option>
+              </select>
+              <label for="itemCategory">Category</label>
+            </div>
+          </div>
+
+          <div class="col-md d-flex">
+            <button class="btn btn-success form-control" onclick="additems()">Add To Store</button>
+          </div>
+
+        </div>
+        <div class="row mt-5">
+          <div class="col-md-12">
+            <div class="h2 text-decoration">Total Items in Our Store</div>
+            <table class="table table-striped">
+              <thead>
+                <tr>
+                  <th>S no.</th>
+                  <th>Item Name</th>
+                  <th>Item Quantity</th>
+                  <th>Item Price</th>
+                  <th>Category</th>
+                  <th>Delete</th>
+                </tr>
+              </thead>
+              <tbody id="itemData">
+
+              </tbody>
+            </table>
+          </div>
+        </div>
+
+      </div>
+    </div>
+
+  </div>
+  </div>
+
+  <div class="github">
+    <a href="https://github.com/Shaktisinh0044" target="_blank"><i class="fa-brands fa-square-github"></i></a>
+  </div>
+
+
+
+
+
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/js/bootstrap.bundle.min.js"
+    integrity="sha384-ndDqU0Gzau9qJ1lfW4pNLlhNTkCfHzAVBReH9diLvGRem5+R9g2FzA8ZGN954O5Q"
+    crossorigin="anonymous"></script>
+  <script src="script.js"></script>
+</body>
+
+</html>
