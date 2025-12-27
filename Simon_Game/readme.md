@@ -57,7 +57,6 @@ A classic memory challenge where a sequence of colored buttons lights up and you
 ## 👨‍💻 Author
 
 **Shakti Sinh** – Frontend & JavaScript Developer  
-GitHub: `Shubs044` (your GitHub username visually seen in related repo) :contentReference[oaicite:5]{index=5}
 
 ---
 
