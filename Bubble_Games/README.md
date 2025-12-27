@@ -1,4 +1,4 @@
-Play: - https://shaktisinh0044.github.io/Bubble-Game/
+Play: - https://shaktisinh0044.github.io/JavaScript_Projects/Bubble_Games/
 
 🎈 This is a fun bubble popping game you can play online.<br>
 👆 Click on the bubbles to pop them before they disappear.<br>
