@@ -1,11 +1,4 @@
-# 🔐 OTP Validation Web App
 
-A simple and interactive OTP (One-Time Password) validation web application built using **HTML**, **CSS**, and **JavaScript**. It generates a random 4-digit OTP, stores it in **Local Storage**, and allows the user to validate it through input.
-
-🔗 **Live Preview:**  
-👉 [Click Here to View](https://shaktisinh0044.github.io/OTP_Validation/)
-
----
 
 # 🧠 Quiz Web App
 
@@ -13,7 +6,7 @@ This is an interactive quiz web app created using **HTML**, **CSS**, and **JavaS
 
 ## 🔍 Preview
 
-👉 [Live Demo of the Quiz Web App](https://shaktisinh0044.github.io/Quiz_Web/)
+👉 [Live Demo of the Quiz Web App](https://shaktisinh0044.github.io/JavaScript_Projects/Quiz_Web/)
 
 
 
