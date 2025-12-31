@@ -22,11 +22,11 @@ A clean, lightweight **custom dropdown UI component** built with **HTML, CSS & J
 ---
 
 ## 📁 Project Structure
-Custome_DropDown/
-├── index.html # Main HTML structure
-├── style.css # Styles for dropdown and UI
-├── script.js # Custom JS logic for dropdown behavior
-└── README.md # This file
+Custome_DropDown/<br>
+├── index.html # Main HTML structure<br>
+├── style.css # Styles for dropdown and UI<br>
+├── script.js # Custom JS logic for dropdown behavior<br>
+└── README.md # This file<br>
 
 
 ---
@@ -60,7 +60,6 @@ This project teaches you:
 💻 **Shakti Sinh**  
 Frontend Developer | JavaScript Enthusiast | UI Hacker
 
-Project by: *Shakti Sinh* — https://shaktisinh0044.github.io/
 
 ---
 
