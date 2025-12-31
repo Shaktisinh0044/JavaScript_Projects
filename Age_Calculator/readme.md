@@ -22,12 +22,12 @@ Check it out here: [Age Calculator Preview](https://shaktisinh0044.github.io/Jav
 ---
 
 ## 🏗️ Project Structure
-Age-Calculator/
-│
-├── index.html # Main HTML file
-├── style.css # Styling for the project
-├── script.js # JavaScript logic to calculate age
-├── README.md # Project documentation
+Age-Calculator/<br>
+│<br>
+├── index.html # Main HTML file<br>
+├── style.css # Styling for the project<br>
+├── script.js # JavaScript logic to calculate age<br>
+├── README.md # Project documentation<br>
 
 
 
