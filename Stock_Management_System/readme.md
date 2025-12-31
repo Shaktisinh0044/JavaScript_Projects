@@ -37,11 +37,11 @@ A simple and responsive web application to manage store items like item name, qu
 
 ## 🗃 Folder Structure
 
-Stock_Management_System/
-├── index.html # Main structure
-├── script.js # JS logic for add/delete
-├── README.md # Project description
-└── Bootstrap CDN # For styles and responsiveness
+Stock_Management_System/<br>
+├── index.html # Main structure<br>
+├── script.js # JS logic for add/delete<br>
+├── README.md # Project description<br>
+└── Bootstrap CDN # For styles and responsiveness<br>
 
 
 
